@@ -500,7 +500,7 @@ END;
 ## 👤 Author & Contact
 
 * **Developer:** Tejas Rewatkar
-* **Role:** PL/SQL / Database Developer
+* **Role:** PL/SQL Developer
 * **GitHub:** [tejasrewatkar7350-hub](https://www.google.com/search?q=https://github.com/tejasrewatkar7350-hub)
 
 ```
