@@ -9,7 +9,7 @@ CREATE TABLE customers (
     phone           VARCHAR2(15),
     created_at      TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
+**````sql**
 -- ------------------------------------------------------------------
 -- 1. Insert 10 Records into CUSTOMERS
 -- ------------------------------------------------------------------
@@ -76,7 +76,7 @@ INSERT INTO customers (first_name, last_name, email, phone) VALUES ('Jaya', 'Bha
 INSERT INTO customers (first_name, last_name, email, phone) VALUES ('Anil', 'Kapoor', 'anil.kapoor@email.com', '9876543268');
 INSERT INTO customers (first_name, last_name, email, phone) VALUES ('Madhuri', 'Dixit', 'madhuri.dixit@email.com', '9876543269');
 commit;
-
+**```**
 -- 2. Accounts Table
 CREATE TABLE accounts (
     account_id      NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
