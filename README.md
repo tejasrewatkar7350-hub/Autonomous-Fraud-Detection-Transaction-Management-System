@@ -503,10 +503,4 @@ END;
 * **Role:** PL/SQL Developer
 * **GitHub:** [tejasrewatkar7350-hub](https://www.google.com/search?q=https://github.com/tejasrewatkar7350-hub)
 
-```
 
----
-
-Commit changes karne ke baad aapki `README.md` file 100% properly structured aur neat and clean render ho jayegi!
-
-```
